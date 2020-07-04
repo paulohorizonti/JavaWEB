@@ -39,7 +39,7 @@
   	<welcome-file>index.htm</welcome-file>
   	
   </welcome-file-list>
-  
+  <!-- Avisar que o dasource existe para o toncat -->
   <resource-ref>
   	<description>DataSource FinanceiroDB</description>
   	<res-ref-name>jdbc/FinanceiroDB</res-ref-name>
